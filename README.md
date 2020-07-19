@@ -5,7 +5,7 @@
 |項目|内容|
 |----|----|
 |HN|DREAM|
-|Twitter|[@new_kidsdream](https://twitter.com/poly_soft)|
+|Twitter|[@new_kidsdream](https://twitter.com/new_kidsdream)|
 |Qiita|[@kidsdream](https://qiita.com/kidsdream)|
 |ポートフォリオ|(https://dremater.com)|
 
