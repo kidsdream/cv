@@ -11,7 +11,7 @@
 
 ## 概要
 
-- 実務ではJava, Springフレームワークを使用しています。
+- 実務ではPHP, JavaScript, TypeScript, Java, Springフレームワークを使用しています。
 
 
 ## スキル
@@ -34,9 +34,8 @@ MySQL | PostgreSQL| OracleDatabase
 
 #### AWS
 
-VPC | S3 | Cloud Front | ALB | EC2 | ECS | Route53 | IAM | Elasticsearch Service | RDS(MySQL|PostgreSQL)
-などの基本的なAWSサービスを用いたネットワーク設計
+VPC | S3 | Cloud Front | ELB | EC2 | ECS | Route53 | IAM | Elasticsearch Service | RDS(MySQL|PostgreSQL)
 
 ### その他
 
-Docker | Gulp | Webpack
+Docker | Gulp | Webpack | WordPress
